@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="bloco">
+         <a href="lista_1/atividade1.php">
+
+          <button> Atividade 1</button>
+
+        </a>
+
+    </div>
+</body>
+</html>
