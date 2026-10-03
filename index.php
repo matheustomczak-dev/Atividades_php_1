@@ -14,6 +14,27 @@
 
         </a>
 
+        <a href="lista_1/atividade2.php">
+
+          <button> Atividade 2</button>
+
+        </a>
+
+        <a href="lista_1/atividade3.php">
+
+          <button> Atividade 3</button>
+
+        </a>
+
+        <a href="lista_1/atividade4.php">
+
+          <button> Atividade 4</button>
+
+        </a>
+
+
+        
+
     </div>
 </body>
 </html>
