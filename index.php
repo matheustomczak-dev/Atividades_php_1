@@ -68,6 +68,24 @@
         <a href="lista_1/atividade11.php">
             <button> Atividade 11</button>
         </a>
+
+        <a href="lista_1/atividade12.php">
+            <button> Atividade 12</button>
+        </a>
+
+        <a href="lista_1/atividade13.php">
+            <button> Atividade 13</button>
+        </a>
+
+
+        <a href="lista_1/atividade14.php">
+            <button> Atividade 14</button>
+        </a>
+
+        <a href="lista_1/atividade15.php">
+            <button> Atividade 15</button>  
+      </a>
+
     </div>
 </body>
 </html>
